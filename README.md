@@ -1,1 +1,2 @@
-# cv This is my inital CV hosted on github
+Basic HTML & CSS
+https://nrjbrown.github.io/cv/
